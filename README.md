@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, my dev´s name is Lian and I´m a web developer, specialized in landing pages and digital business cards.
+
 I´m strating the Data Science´s road to work in other areas.
 
 # 💻 Tech Stack:
